@@ -61,7 +61,7 @@ Count: 10
 Input: stdin (if no file specified)                               
 
 ## 💡 PRO TIPS
-🔧 Combine with other CLI tools via pipes
-📝 Use -l for log file inspection
-⚡ Defaults make quick checks effortless
-📚 --help shows all options
+🔧 Combine with other CLI tools via pipes                                           
+📝 Use -l for log file inspection                                            
+⚡ Defaults make quick checks effortless                         
+📚 --help shows all options                                 
